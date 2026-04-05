@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunksocial_media_jotdown=globalThis.webpackChunksocial_media_jotdown||[]).push([[1903],{1912(o){o.exports=JSON.parse('{"blogBasePath":"/blog","blogTitle":"Blog","authorsListPath":"/blog/authors"}')}}]);
